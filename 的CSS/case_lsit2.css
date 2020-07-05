@@ -1,0 +1,6 @@
+.main_box .main_nav li:first-child {
+	background: #ec5b3f;
+}
+.main_box .main_nav li:nth-child(3) {
+	background: #dc4b2f;
+}

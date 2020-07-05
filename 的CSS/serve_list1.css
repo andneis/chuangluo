@@ -1,0 +1,12 @@
+.main_box .main_nav li:first-child {
+	background: #ec5b3f;
+}
+.main_box .main_nav li:nth-child(2) {
+	background: #dc4b2f;
+}
+.main_content ul li:first-child .main_title h6 {
+	padding-bottom: 10px;
+}
+.main_content ul li:first-child .main_txt>p>span {
+	display:block;font-size: 18px;color: #fd800c;
+}
